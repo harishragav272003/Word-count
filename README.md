@@ -38,11 +38,7 @@ print('Number of words: ',num_words)
 ```
 
 ### OUTPUT:
-![image](https://github.com/harishragav272003/Word-count/assets/119345345/d29c40d4-fff9-49c8-88a9-1f5178a7c726)
-
-![image](https://github.com/harishragav272003/Word-count/assets/119345345/9a8395a6-6c1a-47a2-95f0-8b409ec35a1b)
-
-
+![image](https://github.com/harishragav272003/Word-count/assets/119345345/51268d12-b7c4-4d9a-b65c-9b9257fd01d9)
 
 
 ## RESULT:
